@@ -1,4 +1,4 @@
-package p3;
+package hw2.p3;
 
 import java.util.ArrayList;
 

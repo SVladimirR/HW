@@ -1,4 +1,4 @@
-package p2;
+package hw2.p2;
 
 import java.util.Arrays;
 

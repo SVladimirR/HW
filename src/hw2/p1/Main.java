@@ -1,4 +1,4 @@
-package p1;
+package hw2.p1;
 
 public class Main {
     static double b;

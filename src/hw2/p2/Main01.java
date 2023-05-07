@@ -1,4 +1,4 @@
-package p2;
+package hw2.p2;
 
 public class Main01 {
     static double[] a;
